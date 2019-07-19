@@ -1,3 +1,39 @@
+##########################
+# Unreal Generated Files #
+##########################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+
+######################
+# VS Generated Files #
+######################
+*.VC.db
+
+################
+# Kinect Files #
+################
+Soccer_Kinect/Content/Kinect/
+
+# GT Free Materials
+Soccer_Kinect/Content/GTFreeMaterials/
+
+# Starter Content
+Soccer_Kinect/Content/StarterContent/Textures/
+Soccer_Kinect/Content/StarterContent/HDRI/
+
+Soccer_Kinect/Content/Sport_Soccer/
+Soccer_Kinect/Content/StarterContent/
+Soccer_Kinect/Content/ThirdPerson/
+Soccer_Kinect/Content/ThirdPersonBP/
+Soccer_Kinect/Plugins/
+Soccer_Kinect/Content/WSP_FBX.zip
+Soccer_Kinect/Content/WSP_max_and_textures/
+Soccer_Kinect/Content/WSP_max_and_textures.zip
+
+
 # Visual Studio 2015 user specific files
 .vs/
 
