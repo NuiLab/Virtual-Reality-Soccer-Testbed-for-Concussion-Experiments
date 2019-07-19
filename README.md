@@ -1,7 +1,7 @@
 # Soccer_Kinect
-A Virtual environment to test task performance capabilities of athletes suffering from CTE.
+A Virtual environment to test task performance capabilities of athletes suffering from Sports Related Concussion.
 
-### Process for creating the project log.
+### Project creation log.
 
 1. Understanding the virtual reality mode of unreal engine and creating GitHub repository. 
   * Watched some videos on YouTube \[[1](https://www.youtube.com/watch?v=1PTTuZ_F8Nk)\] \[[2](https://www.youtube.com/watch?v=htwW_Xf0hDM)\]
@@ -77,3 +77,19 @@ A Virtual environment to test task performance capabilities of athletes sufferin
   3. Shoot at goal: In this task subject will have a soccer ball spawn near his/her leg. There will be a goal with 4 sections. Initially all sections will be red tinted. Periodically each one will turn transparent. This is the section person is supposed to shoot the ball. The condition to change the section is either through timeout of a set time or attempting a shot at the target.
  * Separated head and body. Head is tracked by HMD, body is tracked by position of one of the controller. This fixed the own body occlusion problem.
  * Added functionality to read from and write to file. Gives problem with Kinect 4 Unreal plugin. Temporarily removing the plugin and adding it after compiling C++ code fixes the problem.
+ 
+ 
+ ### Notes:
+ 1. All the files are present except the content that can be downloaded from the web. 
+ 2. Different levels are stored in "Levels" folder. Different levels are described in point 13.
+ 3. The Character pawns are in "Character_BP" folder. Their Skeleton Meshes are in "Mannequin/Skeleton_Mesh" folder.
+ 4. Other Blueprint classes needed are in "Blueprints" folder.
+ 5. To start the demo
+  * Connect Oculus Rift/Rift S and microsoft Kinect 2 (Assuming all drivers and SDK are present).
+  * Start Oculus app.
+  * Open any level.
+  * Select VR preview mode.
+  * Place the headset on the ground facing kinect. 
+  * Press 'R' key to reset the orientation.
+  * Put on the headset and enjoy
+  * Evade and Pass levels need 'T' key press to start spawning the players.
