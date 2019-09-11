@@ -77,6 +77,11 @@ A Virtual environment to test task performance capabilities of athletes sufferin
   3. Shoot at goal: In this task subject will have a soccer ball spawn near his/her leg. There will be a goal with 4 sections. Initially all sections will be red tinted. Periodically each one will turn transparent. This is the section person is supposed to shoot the ball. The condition to change the section is either through timeout of a set time or attempting a shot at the target.
  * Separated head and body. Head is tracked by HMD, body is tracked by position of one of the controller. This fixed the own body occlusion problem.
  * Added functionality to read from and write to file. Gives problem with Kinect 4 Unreal plugin. Temporarily removing the plugin and adding it after compiling C++ code fixes the problem.
+
+14. Soccer player avatar and Demo ready project
+ * Added Soccer player avatar. Movements are better than Mannequin.
+ * Fixed minor issues. One of them was while running the program the axis will shift slightly which gave terrible cyber sickness since the XY mapping was all wrong. Solution is to restart the program.
+ * Cloned the repo to store for Demos.
  
  
  ### Notes:
