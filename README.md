@@ -82,6 +82,10 @@ A Virtual environment to test task performance capabilities of athletes sufferin
  * Added Soccer player avatar. Movements are better than Mannequin.
  * Fixed minor issues. One of them was while running the program the axis will shift slightly which gave terrible cyber sickness since the XY mapping was all wrong. Solution is to restart the program.
  * Cloned the repo to store for Demos.
+
+15. 2 new levels added
+ * Evade + Pass: Evade incoming players and tackle the player with the ball. After successful tackle pass to player
+ * Evade + Pass: Evade incoming players and tackle the player with the ball. After successful tackle Shoot at goal
  
  
  ### Notes:
