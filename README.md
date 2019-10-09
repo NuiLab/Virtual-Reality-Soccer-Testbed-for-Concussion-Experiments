@@ -87,6 +87,9 @@ A Virtual environment to test task performance capabilities of athletes sufferin
  * Evade + Pass: Evade incoming players and tackle the player with the ball. After successful tackle pass to player
  * Evade + Pass: Evade incoming players and tackle the player with the ball. After successful tackle Shoot at goal
  
+16. Opponent Avatar and Progress bar
+ * Changed opponent players avatar from Mannequin to humans. Male working for everything. Problem with still Female.
+ * Added score tracking for 1 task levels.
  
  ### Notes:
  1. All the files are present except the content that can be downloaded from the web. 
