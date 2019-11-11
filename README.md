@@ -90,6 +90,10 @@ A Virtual environment to test task performance capabilities of athletes sufferin
 16. Opponent Avatar and Progress bar
  * Changed opponent players avatar from Mannequin to humans. Male working for everything. Problem with still Female.
  * Added score tracking for 1 task levels.
+
+17. Height and avatar selection
+ * Height is selected automatically on the start level.
+ * Left and Right on controller joystick will switch between male and female players.
  
  ### Notes:
  1. All the files are present except the content that can be downloaded from the web. 
