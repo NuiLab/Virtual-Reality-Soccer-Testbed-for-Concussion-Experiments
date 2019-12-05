@@ -94,6 +94,10 @@ A Virtual environment to test task performance capabilities of athletes sufferin
 17. Height and avatar selection
  * Height is selected automatically on the start level.
  * Left and Right on controller joystick will switch between male and female players.
+
+18. New scoreboards added and practice levels created
+ * 3 new scoreboards added for practice levels with fewer trials and existing scoreboards changed to handle more attempts.
+ * 3 practice levels added for training the participants to get used to the environment and controls.
  
  ### Notes:
  1. All the files are present except the content that can be downloaded from the web. 
