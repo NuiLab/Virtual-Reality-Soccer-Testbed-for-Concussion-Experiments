@@ -98,6 +98,11 @@ A Virtual environment to test task performance capabilities of athletes sufferin
 18. New scoreboards added and practice levels created
  * 3 new scoreboards added for practice levels with fewer trials and existing scoreboards changed to handle more attempts.
  * 3 practice levels added for training the participants to get used to the environment and controls.
+
+19. Level with all 3 tasks
+ * Created level with all 3 tasks (Pass->Evade->Goal)
+ * Edited 2-tasks levels to handle consecutive tasks and repetition
+
  
  ### Notes:
  1. All the files are present except the content that can be downloaded from the web. 
