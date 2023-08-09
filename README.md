@@ -1,4 +1,4 @@
-# Soccer_Kinect
+# VR Soccer for Concussion
 A Virtual environment to test task performance capabilities of athletes suffering from Sports Related Concussion.
 
 ### Project creation log.
